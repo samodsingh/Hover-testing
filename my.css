@@ -153,7 +153,7 @@ h3{
     }
 
     .card{
-        width: 60%;
+        width: 80%;
         height: 350px;
         position: relative;
         left: 10px;    
@@ -169,7 +169,7 @@ h3{
 
     }
     .card-2{
-        width:60%;
+        width:80%;
         height: 350px;
         position: relative;
         left: 10px;
@@ -189,7 +189,7 @@ h3{
 
     }
     .card-3{
-        width: 60%;
+        width: 80%;
         height: 350px;
     
         position: relative;
@@ -203,6 +203,20 @@ h3{
         
         border: 3px solid rgb(0, 81, 255);
         
+    
+    }
+    h3{
+        position: absolute;
+        top: 15%;
+        left: 0%;
+        text-align: center;
+        border-top:3px solid rgb(204, 200, 200);
+        border-bottom: 3px solid rgb(187, 182, 182);
+        width: 100%;
+        
+        color: white;
+        padding-top: 25px;
+        padding-bottom: 25px;
     
     }
     
